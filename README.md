@@ -10,3 +10,5 @@ The codes were run in the following order :
 4. formatDeFile.sh
 5. sigDe.r
 6. baylorGeorgetownPlots.R
+
+These were run using SGE job scheduler.
